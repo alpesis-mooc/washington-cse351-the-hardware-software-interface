@@ -1,4 +1,7 @@
 # editor
 *.swn
 *.swo
-*.swn
+*.swp
+
+# _build
+_build
